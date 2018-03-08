@@ -1,0 +1,238 @@
+array(11){
+  [
+    "id"
+  ]=> string(3)"157" 
+  
+  [
+    "goodsName"
+  ]=> string(18)"商品规格测试" 
+  
+  [
+    "price"
+  ]=> string(11)"1.00~100.00" 
+  
+  [
+    "img_list"
+  ]=> array(1){
+    [
+      0
+    ]=> string(64)"http://img.ijumi.cn/images/5087513199/20170819/1503108336668.jpg"
+  } 
+  
+  [
+    "spec_type"
+  ]=> string(1)"1" 
+  
+  [
+    "repertory"
+  ]=> string(2)"65"
+  
+  [
+    "specKey"
+  ]=> array(2){
+    [
+      0
+    ]=> array(4){
+      [
+        "id"
+      ]=> string(3)"158" [
+        "goods_id"
+      ]=> string(3)"157" [
+        "spec_name"
+      ]=> string(10)"规格1级" [
+        "spec_key"
+      ]=> string(32)"多规格1,多规格2,多规格3"
+    } 
+    
+    [
+      1
+    ]=> array(4){
+      
+      [
+        "id"
+      ]=> string(3)"159" 
+      
+      [
+        "goods_id"
+      ]=> string(3)"157" 
+      
+      [
+        "spec_name"
+      ]=> string(10)"规格2级" 
+      
+      [
+        "spec_key"
+      ]=> string(23)"规格1,规格2,规格3"
+
+    }
+  } 
+
+
+  [
+    "spec"
+  ]=> array(6){
+    [
+      0
+    ]=> array(6){
+      [
+        "id"
+      ]=> string(3)"645" [
+        "goods_id"
+      ]=> string(3)"157" [
+        "price"
+      ]=> string(6)"100.00" [
+        "repertory"
+      ]=> string(2)"11" [
+        "goods_space"
+      ]=> string(18)"多规格1,规格1" [
+        "img"
+      ]=> string(0)""
+    } 
+    
+    [
+      1
+    ]=> array(6){
+      [
+        "id"
+      ]=> string(3)"646" [
+        "goods_id"
+      ]=> string(3)"157" [
+        "price"
+      ]=> string(5)"99.00" [
+        "repertory"
+      ]=> string(2)"11" [
+        "goods_space"
+      ]=> string(18)"多规格1,规格2" [
+        "img"
+      ]=> string(0)""
+    } 
+    
+    [
+      2
+    ]=> array(6){
+      [
+        "id"
+      ]=> string(3)"647" [
+        "goods_id"
+      ]=> string(3)"157" [
+        "price"
+      ]=> string(5)"50.00" [
+        "repertory"
+      ]=> string(2)"11" [
+        "goods_space"
+      ]=> string(18)"多规格1,规格3" [
+        "img"
+      ]=> string(0)""
+    }
+    
+    [
+      3
+    ]=> array(6){
+      [
+        "id"
+      ]=> string(3)"648" [
+        "goods_id"
+      ]=> string(3)"157" [
+        "price"
+      ]=> string(5)"25.00" [
+        "repertory"
+      ]=> string(2)"11" [
+        "goods_space"
+      ]=> string(18)"多规格2,规格1" [
+        "img"
+      ]=> string(0)""
+    } 
+    
+    [
+      4
+    ]=> array(6){
+      [
+        "id"
+      ]=> string(3)"649" [
+        "goods_id"
+      ]=> string(3)"157" [
+        "price"
+      ]=> string(5)"10.00" [
+        "repertory"
+      ]=> string(2)"11" [
+        "goods_space"
+      ]=> string(18)"多规格2,规格3" [
+        "img"
+      ]=> string(0)""
+    } 
+    
+    [
+      5
+    ]=> array(6){
+      [
+        "id"
+      ]=> string(3)"650" [
+        "goods_id"
+      ]=> string(3)"157" [
+        "price"
+      ]=> string(4)"1.00" [
+        "repertory"
+      ]=> string(2)"10" [
+        "goods_space"
+      ]=> string(18)"多规格3,规格2" [
+        "img"
+      ]=> string(0)""
+    }
+
+    
+  } 
+  
+  [
+    "freight"
+  ]=> string(4)"0.00" 
+  
+  [
+    "coupon"
+  ]=> array(1){
+    [
+      0
+    ]=> array(6){
+      [
+        "id"
+      ]=> string(3)"147" [
+        "name"
+      ]=> string(12)"全场赠劵" [
+        "deduction"
+      ]=> string(5)"10.00" [
+        "max_price"
+      ]=> string(5)"50.00" [
+        "begin_time"
+      ]=> string(19)"2017-09-24 17:27:31" [
+        "end_time"
+      ]=> string(19)"2017-10-13 17:27:33"
+    }
+  } 
+  
+  [
+    "activity"
+  ]=> array(1){
+    [
+      0
+    ]=> array(6){
+      [
+        "id"
+      ]=> string(2)"90" [
+        "type"
+      ]=> string(1)"3" [
+        "name"
+      ]=> string(12)"限时促销" [
+        "begin_time"
+      ]=> string(19)"2017-09-24 17:25:40" [
+        "end_time"
+      ]=> string(19)"2017-09-24 17:25:40" [
+        "full_minus"
+      ]=> array(1){
+        [
+          0
+        ]=> string(6)"100,10"
+      }
+    }
+  }
+
+
+}

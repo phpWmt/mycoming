@@ -1,0 +1,21 @@
+{
+    "name": "twitf/dropzone",
+    "description": "dropzone说明",
+    "type": "yii2-extension",
+    "keywords": ["yii2","extension"],
+    "license": "Apache-2.0",
+    "authors": [
+        {
+            "name": "shiqiang",
+            "email": "837422076@qq.com"
+        }
+    ],
+    "require": {
+        "yiisoft/yii2": "*"
+    },
+    "autoload": {
+        "psr-4": {
+            "twitf\\dropzone\\": ""
+        }
+    }
+}
